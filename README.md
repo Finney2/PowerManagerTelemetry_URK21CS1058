@@ -1,0 +1,1 @@
+# PowerManagerTelemetry_URK21CS1058
